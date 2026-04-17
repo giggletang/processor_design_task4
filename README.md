@@ -1,4 +1,4 @@
-# Processor Design Semester Project - Task 4
+# Processor Design Project - Task 4
 
 ## How to run
 ### Run with the default example values
